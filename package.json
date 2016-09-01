@@ -1,0 +1,26 @@
+{
+  "name": "taskmill-api-metering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a7medkamel/taskmill-api-metering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a7medkamel/taskmill-api-metering/issues"
+  },
+  "homepage": "https://github.com/a7medkamel/taskmill-api-metering#readme",
+  "dependencies": {
+    "bluebird": "^3.4.3",
+    "config": "^1.21.0",
+    "lodash": "^4.15.0",
+    "redis": "^2.6.2",
+    "winston": "^2.2.0"
+  }
+}

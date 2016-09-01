@@ -1,0 +1,10 @@
+{
+  "metering" : {
+    "limits" : {
+      "email" : 50,
+      "sms"   : 10,
+      "phone" : 5,
+      "run"   : 50000
+    }
+  }
+}
